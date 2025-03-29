@@ -54,7 +54,7 @@ class StudentController extends Controller
     {
         $user = Student::findOrFail($id);
 
-        // Update 
+        
         $user->update([
             'name' => $request->name,
             'email' => $request->email,

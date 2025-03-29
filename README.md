@@ -14,7 +14,7 @@ This is a **Laravel 10** based **Student Management CRUD** application that allo
 
 ### **1. Clone the Repository**
 ```sh
- git clone <your-repository-url>
+ git clone https://github.com/manalisawant3107/StudentManagement.git
 ```
 
 ### **2. Install Dependencies**
